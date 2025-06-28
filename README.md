@@ -1,7 +1,7 @@
 # ghostsht
 # GhostSheet Framework
 
-**Cross-platform red-team toolkit using Google Sheets as a C2 backend.**
+**Nothing.**
 
 ---
 
