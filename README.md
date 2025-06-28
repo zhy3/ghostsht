@@ -44,7 +44,7 @@
 1. **Clone Repo**
 
    ```bash
-   git clone https://github.com/yourusername/GhostSheet-Framework.git
+   git clone https://github.com/zhy3/ghostsht.git
    cd GhostSheet-Framework
    ```
 
